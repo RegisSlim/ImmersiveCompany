@@ -29,3 +29,4 @@ Planned:
 
 -    More scrap.
 -    Radar booster overhaul.
+-    New creatures.
