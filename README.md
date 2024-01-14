@@ -18,7 +18,7 @@ Planned:
 
 Tools:
 - Personal Radar:
--   Price: 400
--   Detects scrap in the vicinity of the scanner but has a short battery life.
+  -   Price: 400
+  -   Detects scrap in the vicinity of the scanner but has a short battery life.
   ![Personal Radar](https://i.ibb.co/7kbjfgg/Capture.png "Personal Radar")
 
