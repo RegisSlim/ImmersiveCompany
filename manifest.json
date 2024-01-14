@@ -4,7 +4,7 @@
   "website_url": "https://github.com/RegisSlim/ImmersiveCompany/tree/main",
   "description": "Immersion focused mod. Features include: New scrap, new tools, permanent ladder extension, and lockable doors.",
   "dependencies": [
-	"Evaisa-LethalLib-0.11.1",
+	"Evaisa-LethalLib-0.12.1",
 	"Ozone-Runtime_Netcode_Patcher-0.2.5"
   ]
 }
