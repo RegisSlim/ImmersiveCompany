@@ -3,6 +3,9 @@
 
 An immersion focused mod.
 
+Find a bug or have a question?
+https://discord.gg/H9YkVMqZ
+
 Features:
 
 -    Ladder stays extended permanently.
