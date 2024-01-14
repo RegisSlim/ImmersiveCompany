@@ -1,0 +1,10 @@
+{
+  "name": "ImmersiveCompany",
+  "version_number": "0.1.8",
+  "website_url": "https://github.com/thunderstore-io",
+  "description": "Immersion focused mod. Features include: New scrap, new tools, permanent ladder extension, and lockable doors.",
+  "dependencies": [
+	"Evaisa-LethalLib-0.11.1",
+	"Ozone-Runtime_Netcode_Patcher-0.2.5"
+  ]
+}
