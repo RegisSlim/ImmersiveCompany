@@ -1,6 +1,6 @@
 {
   "name": "ImmersiveCompany",
-  "version_number": "0.2.1",
+  "version_number": "0.2.2",
   "website_url": "https://github.com/RegisSlim/ImmersiveCompany/tree/main",
   "description": "Immersion focused mod. Features include: New scrap, new tools, permanent ladder extension, and lockable doors.",
   "dependencies": [
