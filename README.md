@@ -18,7 +18,11 @@ Planned:
 
 Tools:
 - Personal Radar:
-  -   Price: 400
-  -   Detects scrap in the vicinity of the scanner but has a short battery life.
-  ![Personal Radar](https://i.ibb.co/7kbjfgg/Capture.png "Personal Radar")
+  -  Price: 400
+  -  Detects scrap in the vicinity of the scanner but has a short battery life.
+  -  ![Personal Radar](https://i.ibb.co/7kbjfgg/Capture.png "Personal Radar")
 
+- Glow Stick:
+  -  Price: 10
+  -  Lights the way.
+  -  ![Glow Stick](https://i.ibb.co/FhN3NhK/Glowstick-Capture.png "Glow Stick")
