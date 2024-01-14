@@ -10,12 +10,6 @@ Features:
 -    2 new scrap items.
 -    New tools.
 
-Planned:
-
--    More scrap.
--    Glowsticks.
--    Radar booster overhaul.
-
 Tools:
 - Personal Radar:
   -  Price: 400
@@ -26,3 +20,9 @@ Tools:
   -  Price: 10
   -  Lights the way.
   -  ![Glow Stick](https://i.ibb.co/FhN3NhK/Glowstick-Capture.png "Glow Stick")
+
+
+Planned:
+
+-    More scrap.
+-    Radar booster overhaul.
