@@ -18,5 +18,5 @@ Planned:
 
 Tools:
 - Personal Radar: Costs 350 and has a short battery life.
-- ![Personal Radar](https://i.ibb.co/7kbjfgg/Capture.png "Personal Radar")
+  ![Personal Radar](https://i.ibb.co/7kbjfgg/Capture.png "Personal Radar")
 
