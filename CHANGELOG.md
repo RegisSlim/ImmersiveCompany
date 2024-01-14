@@ -1,3 +1,6 @@
+0.2.5
+	Radar booster overhaul.
+
 0.2.2
 	Fixed minor issue with the glow stick light not turning off when pocketing a glow stick.
 
