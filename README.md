@@ -11,8 +11,8 @@ Features:
 -    Ladder stays extended permanently.
 -    Doors can be locked with keys.
 -    Radar booster overhaul.
-  -  More range when viewed from the ship's radar screen.
-  -  Can be teleported back to the ship.
+      -  More range when viewed from the ship's radar screen.
+      -  Can be teleported back to the ship.
 -    2 new scrap items.
 -    New tools.
 
@@ -31,5 +31,4 @@ Tools:
 Planned:
 
 -    More scrap.
--    Radar booster overhaul.
 -    New creatures.
