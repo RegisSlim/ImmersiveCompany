@@ -1,3 +1,7 @@
+0.2.6
+	Fixed items not falling on the ground when you buy them.
+	Personal Radar now starts charged when you buy it.
+
 0.2.5
 	Radar booster overhaul.
 
