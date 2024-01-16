@@ -4,7 +4,7 @@
 An immersion focused mod.
 
 Find a bug or have a question?
-https://discord.gg/H9YkVMqZ
+https://discord.gg/gseukSRpb7
 
 Features:
 
