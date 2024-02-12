@@ -10,6 +10,7 @@ Before you report a bug view the compatibility notes at the bottom of this page.
 
 # Features:
 
+-    Fully configurable.
 -    Ladder stays extended permanently.
 -    Doors can be locked with keys.
 -    Radar booster overhaul.
