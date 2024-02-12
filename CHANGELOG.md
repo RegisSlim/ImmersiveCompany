@@ -1,3 +1,6 @@
+0.3.0
+	Added config and reduced radar booster view range.
+
 0.2.7
 	Updated discord link
 
