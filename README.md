@@ -10,6 +10,7 @@ Before you report a bug view the compatibility notes at the bottom of this page.
 
 # Features:
 
+-    Fully configurable.
 -    Ladder stays extended permanently.
 -    Doors can be locked with keys.
 -    Radar booster overhaul.
@@ -42,5 +43,6 @@ Before you report a bug view the compatibility notes at the bottom of this page.
 # Compatibility Notes (Assumed):
 -    MrHydralisk-EnhancedRadarBooster
       -    ImmersiveCompany overhauls the radar booster in a very similar way and might not work with this mod.
+      -    You can disable the radar booster overhaul in the config if you would rather use EnhancedRadarBooster.
 -    Silvercore-Permanent_Ladder
       -    Probably won't cause any problems but ImmersiveCompany makes the ladder permanent as well so it's a bit redundant.
