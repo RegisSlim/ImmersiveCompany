@@ -8,6 +8,9 @@ https://discord.gg/gseukSRpb7
 
 Before you report a bug view the compatibility notes at the bottom of this page.
 
+# Latest version:
+-	 v50 ready.
+-	 No longer requires RuntimeNetcodePatcher as it was deprecated.
 # Features:
 
 -    Fully configurable.
@@ -31,10 +34,6 @@ Before you report a bug view the compatibility notes at the bottom of this page.
   -  ![Glow Stick](https://i.ibb.co/FhN3NhK/Glowstick-Capture.png "Glow Stick")
 
 
-# Planned:
-
--    More scrap.
--    New creatures.
  
 # Compatibility Notes (Confirmed):
 -    ENZ-LockDoorsMod

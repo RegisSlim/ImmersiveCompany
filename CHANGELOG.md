@@ -1,3 +1,7 @@
+0.3.1
+	Removed RuntimeNetcodePatcher, it is now patched manually via Evisa's netcode patcher.
+	Updated for v50
+
 0.3.0
 	Added config and reduced radar booster view range.
 
