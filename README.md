@@ -10,7 +10,7 @@ Before you report a bug view the compatibility notes at the bottom of this page.
 
 # Latest version:
 -	 v50 ready.
--	 No longer requires RuntimeNetcodePatcher as it was deprecated.
+
 # Features:
 
 -    Fully configurable.
