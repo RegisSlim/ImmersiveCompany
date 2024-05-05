@@ -1,9 +1,10 @@
 {
   "name": "ImmersiveCompany",
-  "version_number": "0.3.1",
+  "version_number": "0.3.3",
   "website_url": "https://github.com/RegisSlim/ImmersiveCompany/tree/main",
   "description": "Immersion focused mod. Features include: New scrap, new tools, permanent ladder extension, radar booster overhaul, and lockable doors.",
   "dependencies": [
-	"Evaisa-LethalLib-0.15.1"
+	"Evaisa-LethalLib-0.15.1",
+  "Sigurd-CSync-5.0.0"
   ]
 }

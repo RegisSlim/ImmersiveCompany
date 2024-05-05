@@ -1,3 +1,9 @@
+0.3.3
+	Added lantern.
+	Added strange canister scrap.
+	Added alarm clock scrap.
+	Adjusted resting positions of most items to reduce the amount of hidden screwdrivers.
+
 0.3.1
 	Removed RuntimeNetcodePatcher, it is now patched manually via Evisa's netcode patcher.
 	Updated for v50
