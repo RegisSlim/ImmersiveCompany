@@ -14,34 +14,32 @@ Before you report a bug view the compatibility notes at the bottom of this page.
 # Features:
 
 -    Fully configurable.
+-    4 new scrap items.
+-    3 new tools.
 -    Ladder stays extended permanently.
 -    Doors can be locked with keys.
 -    Radar booster overhaul.
       -  More range when viewed from the ship's radar screen.
       -  Can be teleported back to the ship.
--    2 new scrap items.
--    New tools.
-
 # Tools:
 - Personal Radar:
   -  Price: 400
   -  Detects scrap in the vicinity of the scanner but has a short battery life.
-  -  ![Personal Radar](https://i.ibb.co/7kbjfgg/Capture.png "Personal Radar")
+  -  <img src="https://i.ibb.co/7kbjfgg/Capture.png" width="400">
 
 - Glow Stick:
   -  Price: 10
   -  Lights the way.
-  -  ![Glow Stick](https://i.ibb.co/FhN3NhK/Glowstick-Capture.png "Glow Stick")
+  -  <img src="https://i.ibb.co/FhN3NhK/Glowstick-Capture.png" width="400">
+  
+- Lantern:
+  -  Price: 125
+  -  A high powered light source.
+  -  <img src="https://i.ibb.co/M2nYG0M/Lantern.png" width="400">
 
+# Scrap:
+-
+  - <img src="https://i.ibb.co/6nkCfW9/Scrap.png" width="400">
 
- 
-# Compatibility Notes (Confirmed):
--    ENZ-LockDoorsMod
-      -  Immersive company already does this. Having both will result in you being unable to interact with anything after unlocking a door.
-
-# Compatibility Notes (Assumed):
--    MrHydralisk-EnhancedRadarBooster
-      -    ImmersiveCompany overhauls the radar booster in a very similar way and might not work with this mod.
-      -    You can disable the radar booster overhaul in the config if you would rather use EnhancedRadarBooster.
--    Silvercore-Permanent_Ladder
-      -    Probably won't cause any problems but ImmersiveCompany makes the ladder permanent as well so it's a bit redundant.
+#
+<img src="https://i.ibb.co/9VHgPBL/image.png" width="200">
