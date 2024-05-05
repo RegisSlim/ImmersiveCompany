@@ -10,7 +10,7 @@ Before you report a bug view the compatibility notes at the bottom of this page.
 
 # Latest version:
 -	 v50 ready.
-
+-  Please delete your old config files and regenerate a new one. If you don't the item prices will be broken.
 # Features:
 
 -    Fully configurable.
